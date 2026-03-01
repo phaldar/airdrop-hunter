@@ -1,2 +1,2 @@
-# airdrop-hunter
+# airdrop-hunter prasenjitofficial
 airdrop groups
